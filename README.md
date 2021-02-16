@@ -1,7 +1,43 @@
-# LedArt_Project
-This repository includes a guide and example codes for the use of 8x8 addressable LED matrix with an ESP-32
 
-# Setup ESP 32
+# LED ART
+
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#bakeriet">Bakeriet</a></li>
+        <li><a href="#eik-lab">Eik Lab</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#setup">Setup</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+      <ul>
+          <li><a href="#installing-libraries">Installing libraries</a></li>
+      </ul>
+    <li><a href="#what-to-do">What to do</a></li>
+  </ol>
+</details>
+
+## About the project
+
+### Bakeriet
+
+### Eik Lab
+
+## Getting started
+
+### Prerequisites
+
+### Setup
 
 1. Download Arduino IDE: https://www.arduino.cc/en/software
 
@@ -14,9 +50,15 @@ This repository includes a guide and example codes for the use of 8x8 addressabl
 
 5. Select board: Select your Board in Tools > Board menu (firebeetle-ESP32)
 
+## Usage
+
+### Installing libraries
+
+## What to do
 
 
-# Install libraries
+
+
 
 
 
