@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://github.com/jakeriksen/LedArt_Project/raw/main/circuit_8x8/images/pcb_3d_shot.png" alt="PCB 3D" width="500">
+  <img src="https://github.com/Eik-Lab/LedArt_Project/raw/main/circuit_8x8/images/pcb_3d_shot.png" alt="PCB 3D" width="500">
   <br>
     <br>
   Led Matrix PCB
