@@ -1,4 +1,13 @@
-            
+<h1 align="center">
+<br>
+  <img src="https://raw.githubusercontent.com/jakeriksen/LedArt_Project/edit/main/circuit_8x8/images/pcb_3d_shot.png" alt="PCB 3D" width="250">
+  <br>
+    <br>
+  Led Matrix PCB
+  <br>
+</h1>
+
+
 ## Led Matrix
 
 The LED matrix is an simple 8x8 build, based on the WS2812 adressable LED.
