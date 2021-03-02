@@ -51,7 +51,7 @@ https://fb.me/e/2v0XooUKN
 
 4. Search for ESP32 and press install button for the “ESP32 by Espressif Systems“
 
-5. Select board: Select your Board in Tools > Board menu (firebeetle-ESP32)
+5. Select board: Select your Board in Tools > Board menu (ESP32 Dev Module)
 
 ## Usage
 
