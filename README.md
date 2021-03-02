@@ -56,9 +56,9 @@ https://fb.me/e/2v0XooUKN
 ## Usage
 
 ### Installing libraries
-FastLED
-Adafruit NeoPixel
-Adafruit NeoMatrix
+FastLED,
+Adafruit NeoPixel,
+Adafruit NeoMatrix,
 ## What to do
 
 
